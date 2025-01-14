@@ -99,3 +99,16 @@ Extracts content from uploaded PDFs to enable AI-powered query processing.
 Designed for deployment on cloud platforms like **AWS**, **Heroku**, or **Vercel**, enabling scalability and high availability.
 
 # The contact information is provided above
+
+
+# Reference Images
+![Screenshot 2025-01-14 203231](https://github.com/user-attachments/assets/868ad2a8-c357-4f7b-9dd7-c363e2a8fd29)
+![Screenshot 2025-01-14 194519](https://github.com/user-attachments/assets/1c56e991-5f23-4409-8c32-5ba4392928fb)
+![Screenshot 2025-01-14 194302](https://github.com/user-attachments/assets/3aeba83e-b260-44f7-bdda-f76be9c224aa)
+![Screenshot 2025-01-14 194121](https://github.com/user-attachments/assets/9f114b85-d1da-4ccc-9d7a-70fb5403fa80)
+![image](https://github.com/user-attachments/assets/feb0a686-b744-4ea9-a9fe-37d892c9c15c)
+![image](https://github.com/user-attachments/assets/0f9104af-2bc5-4dcf-85b4-466386de86d3)
+![image](https://github.com/user-attachments/assets/80f8996b-5711-49ca-87d1-aa0454fc1793)
+
+
+
