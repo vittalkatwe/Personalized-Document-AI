@@ -5,3 +5,6 @@ cohere==4.48
 pydantic==2.6.3
 PyPDF2==3.0.1
 python-dotenv==1.0.1
+
+
+# if not able to install the dependencies, try installing them without the versions
