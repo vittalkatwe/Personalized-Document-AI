@@ -61,7 +61,7 @@ function App() {
   }, [isLoading, selectedFile]);
 
   useEffect(() => {
-    fetch('https://0589b057-98e0-4704-b522-823f99fd30a8-00-33npklgwfop6l.pike.replit.dev:8000/health')
+    fetch('http://localhost:8000/health')
       .then(response => response.json())
       .then(() => setServerStatus('online'))
       .catch(() => setServerStatus('offline'));
@@ -83,7 +83,7 @@ function App() {
     formData.append('file', file);
 
     try {
-      const response = await fetch('https://0589b057-98e0-4704-b522-823f99fd30a8-00-33npklgwfop6l.pike.replit.dev:8000/upload', {
+      const response = await fetch('http://localhost:8000/upload', {
         method: 'POST',
         body: formData,
       });
@@ -117,7 +117,7 @@ function App() {
     setQuestion('');
 
     try {
-      const response = await fetch('https://0589b057-98e0-4704-b522-823f99fd30a8-00-33npklgwfop6l.pike.replit.dev:8000/ask', {
+      const response = await fetch('http://localhost:8000/ask', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
